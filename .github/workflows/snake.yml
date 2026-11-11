@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: shriyamgupta14-sys
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E23636
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E8112D
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
