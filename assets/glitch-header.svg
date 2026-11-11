@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <style>
+      .t { font: 900 70px 'Courier New', monospace; letter-spacing: 3px; }
+      .c { fill: #00F0FF; animation: gc 2.4s infinite steps(1); }
+      .m { fill: #FF2BD6; animation: gm 2.4s infinite steps(1); }
+      .w { fill: #FFFFFF; }
+      .sub { fill: #E8112D; font: 700 20px 'Courier New', monospace; letter-spacing: 4px; }
+      .scan { fill: #ffffff; opacity: 0.08; animation: sc 3s linear infinite; }
+      @keyframes gc { 0%,100%{transform:translate(-3px,0)} 20%{transform:translate(-9px,2px)} 40%{transform:translate(4px,-2px)} 60%{transform:translate(-6px,0)} 80%{transform:translate(7px,1px)} }
+      @keyframes gm { 0%,100%{transform:translate(3px,0)} 20%{transform:translate(9px,-2px)} 40%{transform:translate(-4px,2px)} 60%{transform:translate(6px,0)} 80%{transform:translate(-7px,-1px)} }
+      @keyframes sc { from{transform:translateY(-30px)} to{transform:translateY(290px)} }
+    </style>
+  </defs>
+  <rect width="900" height="260" fill="#0D0D0D"/>
+  <polygon points="0,260 0,170 900,60 900,260" fill="#E8112D" opacity="0.9"/>
+  <polygon points="0,260 0,205 900,110 900,260" fill="#0D0D0D" opacity="0.55"/>
+  <text x="450" y="125" text-anchor="middle" class="t c">SHRIYAM GUPTA</text>
+  <text x="450" y="125" text-anchor="middle" class="t m">SHRIYAM GUPTA</text>
+  <text x="450" y="125" text-anchor="middle" class="t w">SHRIYAM GUPTA</text>
+  <text x="450" y="165" text-anchor="middle" class="sub">// SPIDER-VERSE DEV //</text>
+  <rect class="scan" x="0" y="0" width="900" height="14"/>
+</svg>
