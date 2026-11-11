@@ -65,7 +65,8 @@
 
 <img src="https://raw.githubusercontent.com/shriyamgupta14-sys/shriyamgupta14-sys/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
-<img src="./assets/leap-of-faith.svg" width="100%" alt="Leap of faith"/>
+<img src="https://raw.githubusercontent.com/shriyamgupta14-sys/shriyamgupta14-sys/main/assets/assets/leap-of-faith.svg" width="100%" alt="Leap of faith"/>
+
 </div>
 
 ---
