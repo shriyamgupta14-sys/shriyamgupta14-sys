@@ -65,8 +65,7 @@
 
 <img src="https://raw.githubusercontent.com/shriyamgupta14-sys/shriyamgupta14-sys/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriyamgupta14-sys&bg_color=0D0D0D&color=E8112D&line=00F0FF&point=ffffff&area=true&hide_border=true" width="100%"/>
-
+<img src="./assets/leap-of-faith.svg" width="100%" alt="Leap of faith"/>
 </div>
 
 ---
