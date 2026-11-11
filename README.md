@@ -18,9 +18,6 @@
 ## 🌌 Earth-616? Nah, Earth-Shriyam
 
 > **First-year BTech CSE (AI/ML)** @ Bosscoder School of Technology
-> **Co-founder** of **Nullstack** (Bosscoder Student Startup Initiative)
-> Hackathons, startups, aur Java me DSA grind. Leap of faith har baar.
-
 ---
 
 ## 🕸️ Active Missions
