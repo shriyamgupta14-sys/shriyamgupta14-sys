@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <style>
+      .q { font: 700 26px 'Courier New', monospace; fill: #FFFFFF; letter-spacing: 2px; }
+      .s { font: 700 15px 'Courier New', monospace; fill: #E8112D; letter-spacing: 5px; }
+      .web { stroke: #E8112D; stroke-width: 1.5; fill: none; opacity: 0.55; }
+      .glow { animation: pulse 2.5s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:0.25} 50%{opacity:0.8} }
+    </style>
+  </defs>
+  <rect width="900" height="200" fill="#0D0D0D"/>
+  <g class="web glow">
+    <line x1="0" y1="0" x2="300" y2="100"/>
+    <line x1="0" y1="200" x2="300" y2="100"/>
+    <line x1="900" y1="0" x2="600" y2="100"/>
+    <line x1="900" y1="200" x2="600" y2="100"/>
+    <circle cx="450" cy="100" r="60"/>
+    <circle cx="450" cy="100" r="100"/>
+    <circle cx="450" cy="100" r="140"/>
+  </g>
+  <text x="450" y="95" text-anchor="middle" class="q">LEAP OF FAITH &gt; PERFECT PLAN</text>
+  <text x="450" y="130" text-anchor="middle" class="s">KEEP SWINGING</text>
+</svg>
