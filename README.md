@@ -73,8 +73,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shriyamgupta14--sys-0D0D0D?style=for-the-badge&logo=github&logoColor=E8112D)](https://github.com/shriyamgupta14-sys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E8112D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E8112D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shriyam-gupta-957ab5356?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D)](mailto:shriyamgupta14@gmail.com)
 
 <br/>
 
